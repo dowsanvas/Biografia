@@ -1,0 +1,16 @@
+.card {
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 5px 10 px #033f49;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(to left, #0089ba, #008f7a);
+}
